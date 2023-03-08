@@ -3,7 +3,7 @@
 * Java
 * Java Swing
 
-* Service
+### Service
   * In this Application am used Service
     * UserPanel
     * GamePanel
@@ -14,6 +14,7 @@
 ### Project Summery
 
 * This is a Java-based Tic-Tac-Toe game. It's a text-based, 2-player game running in an IDE console environment.
+* Player also put there name in game and choose there favourite color for more entertainment and fun. 
 * I have used concepts like Function variables, input and output switch-case statements, conditionals, and loops in
   detail, as well as the concept of the java Swing.
 * Tech stack used: Core Java
